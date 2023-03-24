@@ -4,8 +4,8 @@
 	<groupId>com.tecmax.demo</groupId>
 	<artifactId>mavewebappdemo</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.0-SNAPSHOT</version>
-	<name>mavewebappdemo Maven Webapp</name>
+	<version>1.0.0</version>
+	<name>mavewebappdemo</name>
 	<url>http://maven.apache.org</url>
 	<distributionManagement>
 		<snapshotRepository>
